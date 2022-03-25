@@ -1,0 +1,7 @@
+data.zip
+data1.zip
+landscape_images/
+venv/
+runs/*/*/outputs/
+runs/*/*/events.out.*
+runs/

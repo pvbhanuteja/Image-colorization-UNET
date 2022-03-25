@@ -1,0 +1,5 @@
+scikit-image
+torchgeometry
+torch
+torchvision
+tensorboard
